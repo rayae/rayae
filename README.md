@@ -1,4 +1,13 @@
 ### Hi there 👋
+- 为什么要担心？如果努力了，担心不会让结果变得更好。
+
+### Contact me 💬
+- Email: bavelee@foxmail.com
+
+### Past and Now 🔭
+- **目前还未毕业即将毕业**
+- 喜爱计算机, Linux 把我领进计算机世界, 再后来喜欢上了 Java PHP Python 等等,尤其中意 Android
+- 未来希望能保持好心态，开心面对每一天
 
 <!--
 **bavelee/bavelee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
