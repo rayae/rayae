@@ -1,25 +1,19 @@
-### Hi there 👋
-- 为什么要担心？如果努力了，担心不会让结果变得更好。
+### 👋 Hi there
+- 为什么要担心？如果努力了，担心不会让结果变得更好
 
-### Contact me 💬
-- Email: bavelee@foxmail.com
+### 🧐 More About Me:
+- 💻 &nbsp; 对 CS 无敌的热爱
+- 😧 &nbsp; 我很弱, 但我一直努力
+- 🏹 &nbsp; 一直在向 `full-stack` 前行
+- 🌱 &nbsp; 目前在深入接触 `back-end`
+- 👦 &nbsp; 普通二本在读
+- 💌 &nbsp; `2016.2.2`-💥
 
-### Past and Now 🔭
-- **目前还未毕业即将毕业**
-- 喜爱计算机, Linux 把我领进计算机世界, 再后来喜欢上了 Java PHP Python 等等,尤其中意 Android
+ ### 📊 Github Stats & 🔨 Languages and Tools
+ <div>
+<img src="https://github-readme-stats.vercel.app/api?username=bavelee&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bavelee&layout=compact" />
+</div>
+
+### 🔭 For my future
 - 未来希望能保持好心态，开心面对每一天
-
-<!--
-**bavelee/bavelee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
