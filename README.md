@@ -4,8 +4,8 @@
 ### 🧐 More About Me:
 - 💻 &nbsp; 对 CS 无敌的热爱
 - 😧 &nbsp; 我很弱, 但我一直努力
-- 🏹 &nbsp; 一直在向 ~~`full-stack`~~ 安全方向 前行
-- 🌱 &nbsp; 目前在深入接触 ~~`back-end`~~ IAST & RASP
+- 🏹 &nbsp; 安全小白，底层码农
+- 🌱 &nbsp; 喜欢研究技术，但是又没有什么成效
 - 👦 &nbsp; 加油吧💪🏻
 - 💌 &nbsp; `2016.2.2`-💥
 
