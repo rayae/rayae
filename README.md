@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm rayae</h1>
-<h3 align="center">A coder from China with extraordinary interests despite having only ordinary abilities</h3>
+<h3 align="center">A coder from China with extraordinary interests in computer science despite having only ordinary abilities</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayae&label=Profile%20views&color=0e75b6&style=flat" alt="rayae" /> </p>
 
